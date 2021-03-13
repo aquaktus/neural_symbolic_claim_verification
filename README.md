@@ -1,0 +1,2 @@
+# neural_symbolic_claim_verification
+Neural-semantic claim verification involves answering binary questions as either true or false. There are multiple datasets that scale in difficulty for this. One from Language models are soft reasoners over language (simple claims with multiple hops of reasoning), next is HoVer which uses natural language claims over wikipedia passages, then there is StrategyQA which is has short implicit questions that require world knowledge to connect concepts and multi-hop reasoning.
